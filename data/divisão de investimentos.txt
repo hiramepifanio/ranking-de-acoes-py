@@ -1,0 +1,11 @@
+Caixa		25%
+Ações Br	25%
+Ações Ex	25%
+FIIs		25%
+
+Tipo		%	Hiram		Gabi
+Caixa		20%	R$ 186		R$ 150
+Ações Tr	40%	R$ 372		R$ 300
+Ações Dv	20%	R$ 186		R$ 150
+FIIs		20%	R$ 186		R$ 150
+
